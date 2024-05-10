@@ -7,7 +7,9 @@ Web Tier: Handles incoming image requests and sends them to the App Tier for pro
 App Tier: Processes image recognition using a pre-trained deep learning model.
 Data Tier: Manages data storage and retrieval from AWS S3 buckets.
 
-![WIN_20240119_14_46_20_Pro](https://github.com/krishna-k31/Cloud-Based-multi-tiered-Face-Recognition-System/assets/67104329/41265d08-ce24-4f3b-aded-6544731408e9)
+## Project architecture
+![image](https://github.com/krishna-k31/Cloud-Based-multi-tiered-Face-Recognition-System/assets/67104329/94ab191d-f715-417a-a7e7-cda42c4e594f)
+
 
 ## Technology Stack
 AWS EC2
