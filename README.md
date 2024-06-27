@@ -1,6 +1,6 @@
 # Cloud-Based-multi-tiered-Face-Recognition-System
 
-This project focuses on developing an elastic face recognition application using the IaaS resources from AWS. The application is designed to utilize a multi-tier architecture to dynamically scale based on demand and perform face recognition using a machine learning model.
+This project focuses on developing an elastic face recognition application using the IaaS resources from AWS. The application is designed to utilize a multi-tier architecture to dynamically scale based on demand and perform face recognition using a machine learning model. Performed load testing to verify the elastic face recognition application's capability to manage 50 simultaneous requests within 120-second timeframe.
 
 ## Project Structure
 Web Tier: Handles incoming image requests and sends them to the App Tier for processing. It also returns the recognition results to the users.
